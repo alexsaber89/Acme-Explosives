@@ -1,0 +1,22 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "business",
+            "description": "Business class fireworks for a HUGE impression"
+        },
+        {
+            "id": 2,
+            "category": 1,
+            "name": "missile",
+            "description": "The missile family (use at YOUR OWN RISK)"
+        }
+    ]
+}
